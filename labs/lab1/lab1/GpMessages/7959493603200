@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Tuesday, January 14, 2025 7:13:04 PM</msg><msg code="0" type="0">Adding incident_ratio to avcanZones_mins...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
+﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+﻿TypeError: unsupported operand type(s) for /: 'int' and 'str'
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Tuesday, January 14, 2025 7:13:09 PM (Elapsed Time: 4.87 seconds)</msg></messages>
