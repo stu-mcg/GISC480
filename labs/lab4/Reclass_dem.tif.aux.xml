@@ -1,0 +1,17 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="gp-lyrx">Yes</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>30</HistMin>
+        <HistMax>95</HistMax>
+        <BucketCount>66</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>48682|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|90511|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|260311|0|0|0|0|0|0|0|0|0|0|0|0|0|0|41531</HistCounts>
+      </HistItem>
+    </Histograms>
+  </PAMRasterBand>
+</PAMDataset>

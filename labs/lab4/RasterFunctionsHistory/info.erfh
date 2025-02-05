@@ -1,0 +1,35 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{ECFED5B4-2CD0-4ADB-ABFA-0DD75ED5E408}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Clip",
+      "description" : "Sets the extent of a raster using coordinates or another dataset.",
+      "rftPath" : "Clip_{ECFED5B4-2CD0-4ADB-ABFA-0DD75ED5E408}.rft.xml",
+      "startTime" : "638743179260000000",
+      "endTime" : "638743179260000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    }
+  ]
+}
